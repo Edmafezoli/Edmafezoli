@@ -18,7 +18,6 @@ English        : Fluent
 
 ```bash
 [+] CJCA - HTB Certified Junior Cybersecurity Associate
-[+] Hack The Box
 ```
 
 <h3 align="center">Skills</h3>
