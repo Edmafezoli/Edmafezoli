@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="390" viewBox="0 0 960 390">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080D1A"/><stop offset=".55" stop-color="#101A30"/><stop offset="1" stop-color="#142746"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#0E7490" stop-opacity=".42"/><stop offset="1" stop-color="#0E7490" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#38BDF8" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="960" height="390" rx="24" fill="url(#bg)"/>
+<rect width="960" height="390" rx="24" fill="url(#grid)"/>
+<circle cx="785" cy="190" r="210" fill="url(#glow)"/>
+<rect x="22" y="22" width="916" height="346" rx="18" fill="none" stroke="#38BDF8" stroke-opacity=".55"/>
+<circle cx="48" cy="48" r="5" fill="#38BDF8"/><circle cx="67" cy="48" r="5" fill="#22D3EE"/><circle cx="86" cy="48" r="5" fill="#64748B"/>
+<text x="112" y="53" fill="#94A3B8" font-family="monospace" font-size="12" letter-spacing="2">MIDNIGHT BLUE / DEVELOPER PROFILE</text>
+<path d="M48 83H912" stroke="#38BDF8" stroke-opacity=".35"/>
+<text x="62" y="148" fill="#7DD3FC" font-family="monospace" font-size="13" letter-spacing="3">HELLO, WORLD! I'M</text>
+<text x="58" y="205" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="43" font-weight="700">EDUARDO MAFEZOLI</text>
+<text x="62" y="242" fill="#38BDF8" font-family="monospace" font-size="17" letter-spacing="2">FULL STACK DEVELOPER IN PROGRESS</text>
+<text x="62" y="279" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="16">Node.js · Python · Vue.js · React</text>
+<rect x="62" y="310" width="500" height="34" rx="8" fill="#080D1A" stroke="#38BDF8" stroke-opacity=".55"/>
+<text x="78" y="332" fill="#22D3EE" font-family="monospace" font-size="13">$ building ideas into real applications</text>
+<!-- pixel cyber cat -->
+<g transform="translate(690 115)">
+ <circle cx="105" cy="105" r="100" fill="#0B1427" stroke="#38BDF8" stroke-opacity=".35" stroke-dasharray="4 8"/>
+ <rect x="52" y="60" width="106" height="92" rx="8" fill="#B9E9FF"/>
+ <path d="M52 70V40h25v20h56V40h25v30" fill="#7DD3FC"/>
+ <rect x="66" y="92" width="18" height="22" fill="#081323"/><rect x="126" y="92" width="18" height="22" fill="#081323"/>
+ <rect x="72" y="96" width="7" height="8" fill="#22D3EE"/><rect x="132" y="96" width="7" height="8" fill="#22D3EE"/>
+ <rect x="98" y="122" width="18" height="8" fill="#0E7490"/><rect x="91" y="130" width="32" height="7" fill="#0E7490"/>
+ <rect x="85" y="150" width="42" height="32" rx="4" fill="#172640" stroke="#38BDF8"/>
+ <path d="M95 164l8 7-8 7m17 0h10" fill="none" stroke="#22D3EE" stroke-width="3" stroke-linecap="round"/>
+ <path d="M155 150q35 0 28 34q-4 18-25 10" fill="none" stroke="#7DD3FC" stroke-width="12" stroke-linecap="square"/>
+ <rect x="153" y="48" width="22" height="18" fill="#22D3EE"/><rect x="171" y="48" width="12" height="18" fill="#38BDF8"/>
+</g>
+<text x="795" y="340" text-anchor="middle" fill="#7DD3FC" font-family="monospace" font-size="11" letter-spacing="2">BYTE // COMPANION</text>
+<path d="M610 105l4 10 10 4-10 4-4 10-4-10-10-4 10-4zM886 83l3 7 7 3-7 3-3 7-3-7-7-3 7-3z" fill="#38BDF8" opacity=".8"/>
+</svg>
