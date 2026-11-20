@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="390" viewBox="0 0 960 390">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080D1A"/><stop offset=".55" stop-color="#101A30"/><stop offset="1" stop-color="#142746"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#0E7490" stop-opacity=".42"/><stop offset="1" stop-color="#0E7490" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#38BDF8" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="960" height="390" rx="24" fill="url(#bg)"/><rect width="960" height="390" rx="24" fill="url(#grid)"/>
+<circle cx="785" cy="190" r="210" fill="url(#glow)"/><rect x="22" y="22" width="916" height="346" rx="18" fill="none" stroke="#38BDF8" stroke-opacity=".55"/>
+<circle cx="48" cy="48" r="5" fill="#38BDF8"/><circle cx="67" cy="48" r="5" fill="#22D3EE"/><circle cx="86" cy="48" r="5" fill="#64748B"/>
+<text x="112" y="53" fill="#94A3B8" font-family="monospace" font-size="12" letter-spacing="2">MIDNIGHT BLUE / DEVELOPER PROFILE</text>
+<path d="M48 83H912" stroke="#38BDF8" stroke-opacity=".35"/>
+<text x="62" y="148" fill="#7DD3FC" font-family="monospace" font-size="13" letter-spacing="3">HELLO, WORLD! I'M</text>
+<text x="58" y="205" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="43" font-weight="700">EDUARDO MAFEZOLI</text>
+<text x="62" y="242" fill="#38BDF8" font-family="monospace" font-size="17" letter-spacing="2">FULL STACK DEVELOPER</text>
+<text x="62" y="279" fill="#CBD5E1" font-family="Arial,sans-serif" font-size="16">Node.js · Python · Vue.js · React</text>
+<rect x="62" y="310" width="500" height="34" rx="8" fill="#080D1A" stroke="#38BDF8" stroke-opacity=".55"/>
+<text x="78" y="332" fill="#22D3EE" font-family="monospace" font-size="13">$ turning ideas into applications</text>
+<!-- Pixel-art fox -->
+<g transform="translate(690 112)">
+ <circle cx="110" cy="112" r="102" fill="#0B1427" stroke="#38BDF8" stroke-opacity=".35" stroke-dasharray="4 8"/>
+ <!-- ears -->
+ <path d="M42 76L28 22L82 48L138 48L192 22L178 82Z" fill="#F28C45"/>
+ <path d="M48 62L42 39L72 53Z M172 62L178 39L148 53Z" fill="#FFD3A8"/>
+ <!-- head -->
+ <path d="M42 66H178V154H158V174H62V154H42Z" fill="#F28C45"/>
+ <path d="M42 112H178V154H158V174H62V154H42Z" fill="#F6B36D"/>
+ <!-- cheeks / muzzle -->
+ <path d="M68 118H152V154H132V166H88V154H68Z" fill="#FFF0D8"/>
+ <rect x="65" y="91" width="24" height="26" fill="#081323"/>
+ <rect x="131" y="91" width="24" height="26" fill="#081323"/>
+ <rect x="72" y="96" width="9" height="10" fill="#22D3EE"/>
+ <rect x="137" y="96" width="9" height="10" fill="#22D3EE"/>
+ <path d="M102 132L118 132L110 142Z" fill="#10213A"/>
+ <!-- scarf -->
+ <path d="M69 169H151L143 186H77Z" fill="#38BDF8"/>
+ <path d="M140 181L163 198L145 202L134 189Z" fill="#22D3EE"/>
+ <!-- body -->
+ <rect x="77" y="188" width="66" height="35" rx="5" fill="#172640" stroke="#38BDF8"/>
+ <path d="M91 201l8 7-8 7m19 0h14" fill="none" stroke="#22D3EE" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="800" y="352" text-anchor="middle" fill="#7DD3FC" font-family="monospace" font-size="11" letter-spacing="2">BYTE // FOX COMPANION</text>
+<path d="M610 105l4 10 10 4-10 4-4 10-4-10-10-4 10-4zM886 83l3 7 7 3-7 3-3 7-3-7-7-3 7-3z" fill="#38BDF8" opacity=".8"/>
+</svg>

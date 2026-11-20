@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="128" viewBox="0 0 960 128">
+<defs><linearGradient id="f" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#101A30"/><stop offset=".55" stop-color="#0B1427"/><stop offset="1" stop-color="#152440"/></linearGradient></defs>
+<rect x="1" y="1" width="958" height="126" rx="18" fill="url(#f)" stroke="#38BDF8" stroke-opacity=".6"/>
+<path d="M28 94Q250 30 480 94T932 82" fill="none" stroke="#38BDF8" stroke-opacity=".35"/>
+<text x="38" y="52" fill="#7DD3FC" font-family="Arial,sans-serif" font-size="22" font-weight="700">Keep building. Keep exploring.</text>
+<text x="40" y="78" fill="#CBD5E1" font-family="Arial,sans-serif" font-size="13">Made with code and a midnight blue mindset.</text>
+<!-- tiny pixel fox -->
+<g transform="translate(830 24)">
+ <path d="M10 34L2 5L31 18L59 18L88 5L80 39Z" fill="#F28C45"/>
+ <path d="M12 38H78V79H65V88H25V79H12Z" fill="#F6B36D"/>
+ <path d="M25 58H39V70H25Z M53 58H67V70H53Z" fill="#081323"/>
+ <path d="M40 73H52L46 80Z" fill="#10213A"/>
+ <path d="M25 88H67L61 99H31Z" fill="#38BDF8"/>
+</g>
+</svg>
